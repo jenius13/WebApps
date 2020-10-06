@@ -14,6 +14,5 @@ namespace WebApp5.Models
         public string fDesc { get; set; }
         public string fModel { get; set; }
         public int fPrice { get; set; }
-        public string OtherProperty { get; set; }
     }
 }
