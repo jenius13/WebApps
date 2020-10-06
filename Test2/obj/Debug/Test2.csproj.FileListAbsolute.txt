@@ -1,0 +1,5 @@
+C:\Users\KOSTA\source\repos\Work\Test2\obj\Debug\Test2.csprojAssemblyReference.cache
+C:\Users\KOSTA\source\repos\Work\Test2\obj\Debug\Test1.Form1.resources
+C:\Users\KOSTA\source\repos\Work\Test2\obj\Debug\Test2.Properties.Resources.resources
+C:\Users\KOSTA\source\repos\Work\Test2\obj\Debug\Test2.csproj.GenerateResource.cache
+C:\Users\KOSTA\source\repos\Work\Test2\obj\Debug\Test2.csproj.CoreCompileInputs.cache
